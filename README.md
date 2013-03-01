@@ -2,6 +2,7 @@ practice
 ========
 
 Problems:
+http://train.usaco.org/usacogate
 https://www.interviewstreet.com/recruit2/
 
 	http://leetcode.com/
