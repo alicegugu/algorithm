@@ -6,7 +6,6 @@ http://train.usaco.org/usacogate
 https://www.interviewstreet.com/recruit2/
 
 	http://leetcode.com/
-http://codeforces.com/
 http://community.topcoder.com/tc?module=ProblemArchive
 
 Repo:
